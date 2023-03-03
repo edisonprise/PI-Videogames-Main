@@ -1,0 +1,30 @@
+.searchbardiv {
+  display: flex;
+  flex-direction: row;
+  margin-top: 3px;
+  align-items: center;
+  width: 100%;
+  justify-content: center;
+}
+
+.btn {
+  margin-left: 5px;
+  font-family: "Press Start 2P";
+  padding: 4px;
+  border-radius: 30px;
+  background-color: black;
+  color: #fff;
+}
+
+.barbtn {
+  font-family: "Press Start 2P";
+  padding: 4px;
+  width: 60%;
+  background-color: rgb(247, 252, 99);
+  border-radius: 10px;
+}
+
+.btn:hover {
+  background-color: black;
+  color: rgb(247, 252, 99);
+}
